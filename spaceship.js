@@ -40,7 +40,6 @@ function InitializeSpaceship() {
     initialized : true,
     bullets : []
   };
-
 }
 
 // Rotate rotates a point around
